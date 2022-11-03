@@ -176,13 +176,24 @@ ca 1980: Level Two.  Each process gets its own up-to-64K memory space, as does t
 
 https://en.wikipedia.org/wiki/OS-9
 
-1990's: NitrOS-9:  Originally a commercial product, today a community-maintained improved
-OS9 for 6809.
+## Tiimeline: NitrOS-9, the new OS-9 for 6809s
+
+1992: Commercial release of NitrOS-9 as an add-on to OS-9
+(e.g. for performance improvements).
+
+Late 1990's: NitrOS-9 becomes "freeware".
+
+Around 2002,2003: Goes community-maintained "open source".
 
 2018: NitrOS-9 Ease Of Use (EOU) Edition: Batteries-included version with lots of
-demos and games, assuming 512K on a Color Computer 3.
+demos and games, assuming 512K on a Color Computer 3,
+separate compiles for Motorola 6809 or Hitachi 6309.
+
+Decades of dis-assembling, reverse engineering, & re-commenting.
 
 An AMAZING amount of hard work still going on, by enthusiastic volunteers.
+
+https://www.youtube.com/watch?v=2YWkZepe7UU
 
 ## Motorola 6809 & Hitachi 6309
 
