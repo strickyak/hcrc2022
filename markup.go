@@ -52,9 +52,8 @@ const HEAD = `
 
     <style>
 			body {
-				background-color: #330033;
-				/* color: #FFFFFF; */
-				color: #4444FF;
+				background-color: #110011;
+				color: #FFFF44;
 				font-family: "Trebuchet Ms", Verdana, sans-serif;
 				/* font-size: 500%; */
 				/* font-family: courier, monospace; */
@@ -62,17 +61,17 @@ const HEAD = `
 			}
 
 			:visited {
-				color: #9900ff;
+				color: #aaaaff;
 				font-family: monospace;
 				text-decoration: none;
 			}
 			:link {
-				color: #9900ff;
+				color: #aaaaff;
 				font-family: monospace;
 				text-decoration: none;
 			}
 			:hover {
-				color: #9900ff;
+				color: #ffffff;
 				font-family: monospace;
 				text-decoration: none;
 			}
