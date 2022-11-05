@@ -4,7 +4,7 @@ by Henry Strickland
 
 `strick@yak.net`
 
-https://github.com/strickyak/
+https://github.com/strickyak/hcrc2022/
 
 Not a reliable source.
 
@@ -14,6 +14,28 @@ Not a reliable source.
 These news items may span a few years.
 But they are things I've learned about,
 or learned a lot more about, in the past year.
+
+## BUT FIRST
+
+Update the Conference Wiki!
+
+I made my user page (user:strick) and
+made a page for this session (2022:RetroComputing)
+and linked it into the 2022 "Preliminary" Agenda
+(it's time to rename that).
+I will be linking our presentations.
+
+NOW YOU DO THE SAME!  It was announced that everything
+will be based on the wiki, so we have to keep it up!
+
+As an attendee with an interest in or passion for
+Retro Computing, you're entitled to link yourself
+from the bottom of our page, and even link things
+you want to share.
+
+BE LIKE TED: Make those "backwards links" as well,
+for every "forward link" you add!
+
 
 ## Obit: Mr. Chen-Hanson (CH) Ting 1939-2022
 

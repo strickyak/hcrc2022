@@ -4,7 +4,7 @@ by Henry Strickland
 
 `strick@yak.net`
 
-https://github.com/strickyak/
+https://github.com/strickyak/hcrc2022/
 
 Not a reliable source.
 
