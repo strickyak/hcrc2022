@@ -8,6 +8,11 @@ https://github.com/strickyak/hcrc2022/
 
 Not a reliable source.
 
+[1-news.md.html](1-news.md.html) ;
+[2-coco.md.html](2-coco.md.html) ;
+[3-602a.md.html](3-602a.md.html) ;
+[4-shred.md.html](4-shred.md.html) ;
+
 
 ## Retro News (or, New to me)
 

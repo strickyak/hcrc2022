@@ -8,6 +8,11 @@ https://github.com/strickyak/hcrc2022/
 
 Not a reliable source.
 
+[1-news.md.html](1-news.md.html) ;
+[2-coco.md.html](2-coco.md.html) ;
+[3-602a.md.html](3-602a.md.html) ;
+[4-shred.md.html](4-shred.md.html) ;
+
 ## Radio Shack Color Computers & OS-9 / NitrOS-9
 
 <img src="nitros9-boot.jpg" width="500" />
@@ -75,7 +80,7 @@ ca 1980: Level Two.  Each process gets its own up-to-64K memory space, as does t
 
 https://en.wikipedia.org/wiki/OS-9
 
-## Tiimeline: NitrOS-9, the new OS-9 for 6809s
+## Timeline: NitrOS-9, the new OS-9 for 6809s & 6309s
 
 1992: Commercial release of NitrOS-9 as an add-on to OS-9
 (e.g. for performance improvements).

@@ -8,6 +8,11 @@ https://github.com/strickyak/hcrc2022/
 
 Not a reliable source.
 
+[1-news.md.html](1-news.md.html) ;
+[2-coco.md.html](2-coco.md.html) ;
+[3-602a.md.html](3-602a.md.html) ;
+[4-shred.md.html](4-shred.md.html) ;
+
 
 ## @4@ Brainstorming on the Book-Shredders of Retro Knowledge (discord, facebook. etc.)
 
@@ -32,5 +37,7 @@ It'll take organization and hard work.
 
 Eternal Flames? Perpetual Care? Is there only the Internet Archive?
 Whom else can we trust?
+
+ARCHIVE IT!  MIRROR IT!  BACK IT UP!  LINK IT!  Upload it to Internet Archive!
 
 ## END
